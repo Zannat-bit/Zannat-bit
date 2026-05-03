@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hey, I'm **Zannat-bit** — a Bangladeshi student developer passionate about learning and building.
 
-<!--
-**Zannat-bit/Zannat-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m exploring:
+- 🌐 Web development (TypeScript, JavaScript, Angular)
+- 🐍 Python & data analysis
+- 💻 C programming fundamentals
 
-Here are some ideas to get you started:
+I’m here to explore open‑source, build projects, and learn something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
