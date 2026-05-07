@@ -1,4 +1,4 @@
-👋 Hey, I'm **Zannat-bit** — a Bangladeshi student developer passionate about learning and building.
+👋 Hey, I'm **Zannat-bit** — a Bangladeshi student passionate about learning and building.
 
 I’m exploring:
 - 🌐 Web development (TypeScript, JavaScript, Angular)
